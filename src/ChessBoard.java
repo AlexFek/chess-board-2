@@ -1,3 +1,5 @@
+// FOR CHANGES
+
 public class ChessBoard {
 
     private static final int    BOARD_DIM = 8;
